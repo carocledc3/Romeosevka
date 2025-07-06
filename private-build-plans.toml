@@ -6,7 +6,7 @@ noCvSs = true
 exportGlyphNames = false
 
 [buildPlans.Romeosevka.variants.design]
-one = "base"
+one = "base-flat-top-serif"
 two = "straight-neck-serifless"
 five = "oblique-flat-serifless"
 six = "open-contour"
@@ -70,7 +70,6 @@ percent = "rings-continuous-slash"
 pilcrow = "low"
 
 [buildPlans.Romeosevka.variants.italic]
-one = "base-flat-top-serif"
 two = "straight-neck-serifless"
 six = "open-contour"
 seven = "bend-serifless"
